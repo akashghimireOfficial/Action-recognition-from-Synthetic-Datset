@@ -25,10 +25,10 @@ A big thank you to **@sard0r** for providing these dataset.
 
 
 ## ***Result***
-i. ***Training Result ***
+i. ***Training Result***
   1. > Training Accuracy :98.09 % 
   2. > Valiation Accuracy : 96.46%
 
-ii. ***Testing Result ***
+ii. ***Testing Result***
   1. On synthetic Dataset : 98.41 %
   2. On Non-synthetic Dataset : **yet to be tested**
