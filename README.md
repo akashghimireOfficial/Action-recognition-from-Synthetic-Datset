@@ -19,7 +19,7 @@
 > Synthetic Dataset was produced using ***etri-dataset** \
 >>[***etri-dataset***] (https://ai4robot.github.io/ElderSim/)
 
-**A big thank you to @sard0r for providing these dataset. **
+A big thank you to **@sard0r** for providing these dataset. 
 
 
 
