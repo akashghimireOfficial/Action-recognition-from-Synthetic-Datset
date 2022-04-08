@@ -10,7 +10,7 @@
 
 ## *Purpose*
 1. Use synthetic dataset for training Action Recognition and get good accuracy
-2. Evaluate how will it perform on Real test Dataset## Dataset Used
+2. Evaluate how will it perform on Real test Dataset
 
 
 ## ***Dataset Used***
