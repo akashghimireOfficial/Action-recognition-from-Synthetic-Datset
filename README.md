@@ -14,11 +14,21 @@
 
 
 ## Dataset Used
-Eldersim Dataset
+> [Eldersim Synthetic Datas] (https://ai4robot.github.io/ElderSim/) \
+> Total 55 classes of Action Recognition \
+> Synthetic Dataset was produced using ***etri-dataset** \
+>>[***etri-dataset***] (https://ai4robot.github.io/ElderSim/)
+
+**A big thank you to @sard0r for providing these dataset. **
 
 
 
 
+## *Result*
+i. ***Training Result ***
+  1. > Training Accuracy :98.09 % 
+  2. > Valiation Accuracy : 96.46%
 
-A big thank you to @sard0r for providing these 
-
+ii. ***Testing Result ***
+  1. On synthetic Dataset : 98.41 %
+  2. On Non-synthetic Dataset : **yet to be tested**
